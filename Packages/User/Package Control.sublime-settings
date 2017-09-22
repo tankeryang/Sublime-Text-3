@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Anaconda",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Djaneiro",
+		"Git",
+		"GitGutter",
+		"IMESupport",
+		"MarkdownEditing",
+		"Material Theme",
+		"Modific",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PackageResourceViewer",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"SyncedSidebarBg",
+		"Terminal"
+	]
+}
