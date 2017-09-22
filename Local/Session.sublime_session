@@ -12,7 +12,7 @@
 		"/E/Z_project/PycharmProjects/scrap_ganji"
 	],
 	"last_version": 3143,
-	"last_window_id": 26,
+	"last_window_id": 27,
 	"log_indexing": false,
 	"settings":
 	{
@@ -23,6 +23,18 @@
 			{
 				"selected_items":
 				[
+					[
+						"creat",
+						"create_pool"
+					],
+					[
+						"co",
+						"coroutine\tfunction"
+					],
+					[
+						"re",
+						"request\tinstance"
+					],
 					[
 						"asy",
 						"asyncio\tmodule"
@@ -70,10 +82,6 @@
 					[
 						"AF_",
 						"AF_INET\tinstance"
-					],
-					[
-						"re",
-						"requests\tmodule"
 					],
 					[
 						"ti",
@@ -127,10 +135,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "",
+				"height": 183.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
 					[
 						"git:s",
 						"Git: Status"
@@ -204,10 +220,6 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"PackageResourceViewer: Open Resource",
 						"PackageResourceViewer: Open Resource"
 					]
@@ -232,12 +244,24 @@
 			},
 			"file_history":
 			[
-				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
-				"/E/Z_project/PycharmProjects/scrap_ganji/scrapFunc.py",
-				"/E/Z_project/PycharmProjects/scrap_ganji/main.py",
-				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/C/Users/yang/Desktop/新建文本文档.txt",
+				"/E/Z_project/PycharmProjects/myWebApp/www/flaskApp.py",
+				"/E/Z_project/PycharmProjects/myWebApp/www/templates/form.html",
+				"/E/Z_project/PycharmProjects/myWebApp/www/templates/signin-ok.html",
+				"/E/Z_project/PycharmProjects/myWebApp/www/templates/home.html",
 				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/E/Z_project/Git/pythonNotes/function_test.py",
+				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/E/Z_project/PycharmProjects/scrap_ganji/scrapFunc.py",
+				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/E/Z_project/PycharmProjects/scrap_ganji/main.py",
+				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
 				"/C/Users/yang/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
 				"/E/Z_project/VSProjects/FaceMorph/FaceMorph/faceMorph.py",
 				"/E/Z_project/VSProjects/Address List Management System/Address List Management System/addresslistFunc.cpp",
@@ -256,7 +280,6 @@
 				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex3/ex3/predict.m",
 				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex3-jin/predictOneVsAll.m",
 				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex3-jin/oneVsAll.m",
-				"/C/Users/yang/Desktop/新建文本文档.txt",
 				"/E/Y_resource/study resource/JAVA/Python+java项目/教程目录及说明.txt",
 				"/E/Z_project/VSProjects/Address List Management System/BestBusRoute/routes.txt",
 				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex3-jin/predict.m",
@@ -348,22 +371,11 @@
 				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/斯坦福、伯克利、杜克大学、哥大等 深度学习课程+书籍/Neural Networks for Machine Learning/neuralnets-2012-001/01_Lecture1/01_Why_do_we_need_machine_learning_13_min.txt",
 				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/featureNormalize.m",
 				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/ex1_multi.m",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/gradientDescentMulti.m",
-				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/normalEqn.m",
-				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/ex1data2.txt",
-				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/ex1_multi.m",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/computeCostMulti.m",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/normalEqn.m",
-				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/gradientDescentMulti.m",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/IBM认知计算/解压.txt",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/Udacity机器学习纳米学位工程师系列课程/4-非监督学习-创建客户细分/4-聚类迷你项目/4-部署聚类 - 练习.txt",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/Udacity机器学习纳米学位工程师系列课程/4-非监督学习-创建客户细分/4-聚类迷你项目/2-K-均值聚类迷你项目.txt",
-				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/gradientDescent.m",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/gradientDescent.m"
+				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/gradientDescentMulti.m"
 			],
 			"find":
 			{
-				"height": 73.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
@@ -377,6 +389,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\tglobal __pool\n",
+					"\t__pool = yield ",
+					"yield",
 					"throw"
 				],
 				"highlight": true,
@@ -398,7 +413,7 @@
 			},
 			"input":
 			{
-				"height": 40.0
+				"height": 72.0
 			},
 			"menu_visible": true,
 			"output.exec":
@@ -462,6 +477,18 @@
 			{
 				"selected_items":
 				[
+					[
+						"Iter",
+						"Iter_yieldFrom\tfunction"
+					],
+					[
+						"yie",
+						"yieldFromIter\tfunction"
+					],
+					[
+						"yi",
+						"yieldFromIter\tfunction"
+					],
 					[
 						"creat",
 						"create_pool"
@@ -563,19 +590,19 @@
 					}
 				},
 				{
-					"file": "/C/Users/yang/Desktop/新建文本文档.txt",
+					"file": "/E/Z_project/Git/pythonNotes/py_file/yieldTest.py",
 					"settings":
 					{
-						"buffer_size": 2834,
+						"buffer_size": 533,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/Z_project/PycharmProjects/myWebApp/www/orm.py",
+					"file": "/C/Users/yang/AppData/Roaming/Sublime Text 3/README.md",
 					"settings":
 					{
-						"buffer_size": 625,
+						"buffer_size": 110,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -714,11 +741,25 @@
 			"expanded_folders":
 			[
 				"/E/Z_project/PycharmProjects/myWebApp",
+				"/E/Z_project/PycharmProjects/myWebApp/backup",
+				"/E/Z_project/PycharmProjects/myWebApp/conf",
+				"/E/Z_project/PycharmProjects/myWebApp/dist",
+				"/E/Z_project/PycharmProjects/myWebApp/ios",
 				"/E/Z_project/PycharmProjects/myWebApp/www",
+				"/E/Z_project/PycharmProjects/myWebApp/www/statis",
 				"/E/Z_project/PycharmProjects/myWebApp/www/templates"
 			],
 			"file_history":
 			[
+				"/E/Z_project/Git/pythonNotes/py_file/yieldTest.py",
+				"/E/Z_project/PycharmProjects/myWebApp/www/yieldTest.py",
+				"/E/Z_project/PycharmProjects/myWebApp/www/orm.py",
+				"/E/Z_project/eclipseProject/workspace/netest/TCP/server.py",
+				"/E/Z_project/eclipseProject/workspace/netest/spider/spider.py",
+				"/E/Z_project/eclipseProject/workspace/Hanoi/src/oop.py",
+				"/E/Z_project/eclipseProject/workspace/Dollos/src/server.py",
+				"/C/Users/yang/AppData/Roaming/Sublime Text 3/README.md",
+				"/C/Users/yang/Desktop/新建文本文档.txt",
 				"/E/Z_project/PycharmProjects/myWebApp/www/flaskApp.py",
 				"/E/Z_project/PycharmProjects/myWebApp/www/templates/form.html",
 				"/E/Z_project/PycharmProjects/myWebApp/www/templates/signin-ok.html",
@@ -754,7 +795,6 @@
 				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex3/ex3/predict.m",
 				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex3-jin/predictOneVsAll.m",
 				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex3-jin/oneVsAll.m",
-				"/C/Users/yang/Desktop/新建文本文档.txt",
 				"/E/Y_resource/study resource/JAVA/Python+java项目/教程目录及说明.txt",
 				"/E/Z_project/VSProjects/Address List Management System/BestBusRoute/routes.txt",
 				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex3-jin/predict.m",
@@ -838,15 +878,7 @@
 				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex2/ex2/plotData.m",
 				"/E/所有下载/BaiduYunDownload3/俄罗斯数学教材选译（高教版）/暂缺书单.txt",
 				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/featureNormalize.m",
-				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/computeCostMulti.m",
-				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/computeCost.m",
-				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/ex1.m",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/斯坦福、伯克利、杜克大学、哥大等 深度学习课程+书籍/Natural Language Processing Collins/04_Week_1_-_Summary/【必看】视频观看说明.txt",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/人工智能自然语言处理培训班/自然语言处理班/视频教程/【必看】视频观看说明.txt",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/斯坦福、伯克利、杜克大学、哥大等 深度学习课程+书籍/Neural Networks for Machine Learning/neuralnets-2012-001/01_Lecture1/01_Why_do_we_need_machine_learning_13_min.txt",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/featureNormalize.m",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/ex1_multi.m",
-				"/E/Y_resource/study resource/机器学习&数据挖掘/视频/2014斯坦福大学机器学习mkv视频/机器学习课程2014源代码/mlclass-ex1-jin/gradientDescentMulti.m"
+				"/E/Z_project/Git/coursera_ml_homework/machine-learning-ex1/ex1/computeCostMulti.m"
 			],
 			"find":
 			{
@@ -891,7 +923,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 2,
 					"sheets":
 					[
 						{
@@ -942,46 +974,21 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -992,11 +999,36 @@
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
 									],
 									"git_gutter_enable": true,
 									"git_gutter_is_enabled": false,
@@ -1013,124 +1045,19 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/C/Users/yang/Desktop/新建文本文档.txt",
+							"file": "/E/Z_project/Git/pythonNotes/py_file/yieldTest.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2834,
+								"buffer_size": 533,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										417,
-										417
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"git_gutter_is_enabled": false,
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/Z_project/PycharmProjects/myWebApp/www/orm.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 625,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										625,
-										625
+										160,
+										160
 									]
 								],
 								"settings":
@@ -1164,26 +1091,31 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -1194,36 +1126,30 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
 									"git_gutter_is_enabled": false,
 									"is_init_dirty_state": false,
-									"open_with_edit": true,
-									"origin_encoding": "UTF-8",
+									"origin_encoding": "ASCII",
 									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 								},
 								"translation.x": 0.0,
@@ -1231,6 +1157,111 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/yang/AppData/Roaming/Sublime Text 3/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 110,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										42,
+										42
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"git_gutter_is_enabled": false,
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
