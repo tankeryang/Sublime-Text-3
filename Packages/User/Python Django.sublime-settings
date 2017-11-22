@@ -1,0 +1,7 @@
+// These settings override both User and Default settings for the Python Django syntax
+{
+    "translate_tabs_to_spaces": true,
+    "word_wrap": true,
+    "wrap_width": 80,
+    "rulers": [80]
+}
